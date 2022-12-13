@@ -7,27 +7,6 @@
 
 ## Project Overview :page_facing_up:
 
-### Overview
-AMBER Playable NFT Marketplace based on Mintbase technology. 
-
-Our proposal is to develop a Playable NFT Marketplace Based on AMBER Open-source Metaverse, which will be the Playable NFT Marketplace powered by Mintbase technology with virtual asseet ownership confirmation and in-game NFT utility. Users will be able to get virtual assets through an interactive NFT lootbox, give them to other users and trade them on the secondary market. Virtual assets have rarity rarity and utility use of these skins in games and metaverse. The code of project will then be put into an open-source repository that will allow any blockchain applications and game creators to create marketplaces of this kind. The first will be a collection of 8888 3D avatars that will be used in the game. With AMBER technology it is possible to mint weapons, vehicles, real estate and land and use them in metaverse & NFT games. Also it's necessary to develop and implement a marketing strategy through which we plan to involve users to buy virtual property on AMBER and Mintbase platforms.  When the project is launched anyone may become a creator and trader of virtual property by verifying account on the Marketplace and publishing own designs for NFT-assets. The Marketplace will provide a unique user experience related to gaming and buying in-game skins. As part of the project it is also planned to create a nft lootbox with the drop of things of different rarity and different mechanics of how items are dropped. 
-
-
-### Project Details
-
-![alt text](https://raw.githubusercontent.com/AMBER-Open-Source-Metaverse/UX-wireframe-for-playable-NFT-marketplace-powered-by-Mintbase/master/2-App-Marketplace.png)
-
-We will prepare a grey layout describing our NFT marketplace idea 
-
-We will use a technical method proposed by NEAR, which means using smart contracts on the backend and some frontend 
-s
-We assume that the marketplace will be developed in JavaScript (React) with Gatsby and hosted on Neltify. Also possible integration with our C# backend, a plugin for the Unity game engine that communicates with the Mintbase API and allows downloading, streaming, caching  NFT from the storage directly to the while playing the game and utilise the NFT as playable NFT asset.
-
-At the moment we have an MVP of a third person shooter game which already uses NFT from the Mintbase marketplace. An example is deployed at https://amber.top where when you run the WebGl game (desktop only Chrome Firefox) you will get an nft avatar where the forever_media whith is attached to NFT by Mintbase smart-contract is streamed from IPFS into the game environment using our plugin. We also have an iPhone game that works the same way and is available for installation via the AppStore Testflight (Iphone 12+ Only)
-https://testflight.apple.com/join/KHYIS8no
-
-The outcome of the project will not so much be an improvement to the AMBER gaming environment, at the same time it will be a huge improvement to the web frontend for the user - a marketplace application in which the user makes NFT mint and trades
-
 ### Ecosystem Fit
 
 There is the problem of adapting blockchain for the masses, namely NFT and their utility. Our project allows the web2 user to learn about the world of blockchain and seamlessly move into using NFT in everyday life as playable items. 
